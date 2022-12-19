@@ -1,13 +1,11 @@
+#include <stdio.h>
 /**
- * main:entry piont
- *
- * Retur; 0
+ * main - prints "Programming is like building a multilingual puzzle." 
+ * Retur; Always 0
  */
-
 int main (void)
 {
 	("\"Programming is like building a multilingual puzzle");
-
-
 	Return (0);
+
 }	
